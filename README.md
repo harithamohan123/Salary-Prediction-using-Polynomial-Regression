@@ -9,8 +9,8 @@ Procedure:
 => Load dataset and summarize detials such as number of rows and columns.                                                                              
 => Segregate the independant and dependant values.                                                                                                   
 => Use polynomial regression algorithm by :                                                                                          
-                           => converting normal feature x into polynomial format                                               
-                           => Training Linear regression using polynomial format featured x                                                     
-                           => Visualise polynomial regression result                                                                                    
+                           -- converting normal feature x into polynomial format                                               
+                           -- Training Linear regression using polynomial format featured x                                                     
+                           -- Visualise polynomial regression result                                                                                    
 => Training model for dataset.                                                                                                                                  
 => Predict model with fit_transform.                                                                            
